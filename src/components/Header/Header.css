@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px 0px;
+}
+.navbar__logo {
+  background-color: grey;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  margin: 10px;
+}
+.navbar__title {
+  font-weight: bold;
+  margin: 10px;
+}
+.navbar__vr {
+  height: 30px;
+  border-left: 1px solid black;
+}
